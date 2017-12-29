@@ -1,0 +1,13 @@
+p{
+    width: 30%;
+    margin: 0 auto;
+}
+
+p::first-letter{
+    font-size:20px;
+    font-style: italic;
+}
+
+p::first-line{
+    color: red;
+}
